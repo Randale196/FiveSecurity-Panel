@@ -1,0 +1,5 @@
+# Updating this soon
+Options -Indexes
+
+ErrorDocument 404 https://panel.fivesecurity.de/
+ErrorDocument 403 https://panel.fivesecurity.de/

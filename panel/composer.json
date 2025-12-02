@@ -1,0 +1,9 @@
+{
+    "require": {
+        "robthree/twofactorauth": "^3.0",
+        "endroid/qr-code": "^6.0",
+        "phpgangsta/googleauthenticator": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
